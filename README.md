@@ -1,3 +1,6 @@
+This is a backup of an abandoned project that implements APIs for a partyroom booking system using Django, Django Rest and MySQL.
+!![partyroom_server](partyroom_server/apis.png)
+
 # Set up the environment
 1. download python 3.9 and
 run `pip install requirements.txt`
