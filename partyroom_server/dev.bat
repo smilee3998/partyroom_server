@@ -1,0 +1,1 @@
+python .\manage.py runserver --settings=partyroom_server.dev
